@@ -1,5 +1,3 @@
-# CKD uPAD Protocols - SJSU CardioLab
-Jaffe reaction: creatinine + picric acid alkaline = orange-red color
-Normal creatinine: 0.6-1.2 mg/dL. CKD threshold: above 1.5 mg/dL
-Image analysis: 64x64 pixel RGB extraction from detection zone
-Fabrication: Whatman paper + wax printer + heat at 120C
+# CKD uPAD - SJSU CardioLab
+Jaffe reaction creatinine plus picric acid equals orange-red.
+Normal 0.6-1.2 mg/dL. CKD above 1.5. Stage2 1.5-3.0. Stage3-4 3.0-6.0. Stage5 above 6.0.
