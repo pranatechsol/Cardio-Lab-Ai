@@ -1,2 +1,7 @@
 groq
 requests
+pillow
+numpy
+matplotlib
+pandas
+# v27
